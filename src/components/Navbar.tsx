@@ -30,7 +30,7 @@ export default function Navbar() {
           <Link to="/" className="flex items-center space-x-2">
             <img src={logo} alt="Construction Cost Calculator" className="w-12 h-12 object-contain" />
             <span className="text-xl font-bold text-blue-600">
-              EstiMate
+              Your EstiMate
             </span>
           </Link>
 
