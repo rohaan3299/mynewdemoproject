@@ -12,10 +12,10 @@ export default function FeedbackForm() {
       <div className="text-center py-8">
         <h3 className="text-xl font-semibold text-gray-800 mb-4">Send us your feedback</h3>
         <p className="text-gray-600 mb-6">
-          We value your feedback! Please send us an email at:
+          I value your feedback! Please send me an email at:
         </p>
         <a
-          href="mailto:feedback@constructioncalculator.com"
+          href="mailto:Rohan.YourEstiMate@gmail.com"
           className="text-blue-600 font-semibold text-lg hover:text-blue-700"
         >
           feedback@estimate.com.pk
